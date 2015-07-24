@@ -1,0 +1,6 @@
+# Rescue Logfile. Created by GNU ddrescue version 1.17
+# Command line: ddrescue -f -n /dev/sdb1 /dev/sdd1 logfile
+# current_pos  current_status
+0xDDE4300000     +
+#      pos        size  status
+0x00000000  0xDDE4308A00  +
